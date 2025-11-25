@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://www.google.com/search?q=Abdulrahman-hany">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Building%20CLoud%20Solutions%20for%20Impact;%20%;Visit%20www.hanifyx.github.io/Portfolio/&font=Fira%20Code&center=true&color=00CFFF&pause=2000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=%20Building%20CLoud%20Solutions%20for%20Impact;%20%;Visit%20www.hanifyx.github.io/Portfolio/&font=Fira%20Code&center=true&color=00CFFF&pause=2000">
   </a>
 </p>
 
