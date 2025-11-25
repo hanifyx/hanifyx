@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://www.google.com/search?q=Abdulrahman-hany">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Building%20AI%20Solutions%20for%20Impact;Passionate%20Community%20Leader;Visit%20www.sayedtag.me&font=Fira%20Code&center=true&color=00CFFF&pause=2000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Building%20CLoud%20Solutions%20for%20Impact;%20%;Visit%20www.hanifyx.github.io/Portfolio/&font=Fira%20Code&center=true&color=00CFFF&pause=2000">
   </a>
 </p>
 
@@ -48,22 +48,6 @@ I thrive on **building** and **Optimization** — not just experiments in Theora
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hanifyx&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanifyx&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
----
-
-## 🏅 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hanifyx&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
-</p>
-
----
-
-## 🔥 GitHub Streak  
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hanifyx&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
